@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "libcore", "libcore\libcore.cppproj", "{42366D9E-330C-4CF5-B138-6ED1843B88F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42366D9E-330C-4CF5-B138-6ED1843B88F2}.Debug|AVR.ActiveCfg = Debug-ATMEGA328P_8MHZ|AVR
+		{42366D9E-330C-4CF5-B138-6ED1843B88F2}.Debug|AVR.Build.0 = Debug-ATMEGA328P_8MHZ|AVR
+		{42366D9E-330C-4CF5-B138-6ED1843B88F2}.Release|AVR.ActiveCfg = Release-ATMEGA328P_8MHZ|AVR
+		{42366D9E-330C-4CF5-B138-6ED1843B88F2}.Release|AVR.Build.0 = Release-ATMEGA328P_8MHZ|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "test-binout", "test-binout\test-binout.cppproj", "{45EEF058-7EBC-4403-8061-085D3E3E3779}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "test-modem", "test-modem\test-modem.cppproj", "{D5140DDB-42C8-411B-AFC6-D01376579A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EEF058-7EBC-4403-8061-085D3E3E3779}.Debug|AVR.ActiveCfg = Debug|AVR
+		{45EEF058-7EBC-4403-8061-085D3E3E3779}.Debug|AVR.Build.0 = Debug|AVR
+		{45EEF058-7EBC-4403-8061-085D3E3E3779}.Release|AVR.ActiveCfg = Release|AVR
+		{45EEF058-7EBC-4403-8061-085D3E3E3779}.Release|AVR.Build.0 = Release|AVR
+		{D5140DDB-42C8-411B-AFC6-D01376579A99}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D5140DDB-42C8-411B-AFC6-D01376579A99}.Debug|AVR.Build.0 = Debug|AVR
+		{D5140DDB-42C8-411B-AFC6-D01376579A99}.Release|AVR.ActiveCfg = Release|AVR
+		{D5140DDB-42C8-411B-AFC6-D01376579A99}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
